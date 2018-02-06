@@ -1,0 +1,7 @@
+
+"map_startPolygonButton_start" = "New Polygon";
+"map_startPolygonButton_finish" = "Finish";
+"map_clearButton" = "Clear All";
+"map_startPolygonAction" = "Please tap on the map to make the polygon and then press Finish";
+"map_polygon_area" = "Polygon Area";
+"map_unity" = "meters";

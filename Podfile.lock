@@ -1,0 +1,15 @@
+PODS:
+  - Mapbox-iOS-SDK (3.7.3)
+  - SwiftyDrop (4.0.2)
+
+DEPENDENCIES:
+  - Mapbox-iOS-SDK (~> 3.7)
+  - SwiftyDrop
+
+SPEC CHECKSUMS:
+  Mapbox-iOS-SDK: 5304bd9605babe6da9050ea4cb23c1671420b737
+  SwiftyDrop: a497afbcf50f7882ac7637c8308baf07c5ed15e6
+
+PODFILE CHECKSUM: 002dfb9e3db09d261ff67b534246b770ca35b6f0
+
+COCOAPODS: 1.3.1
